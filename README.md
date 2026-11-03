@@ -5,7 +5,7 @@
 **把模板、数据，连到现场打印。**  
 **Connect templates, data, and on-site label printing.**
 
-[中文介绍](#中文) · [English](#english) · [产品官网 / Product website](https://devgo.io/products/labeleditor/) · [官网下载 / Official downloads](https://devgo.io/downloads/)
+[中文介绍](#中文) · [English](#english) · [产品官网 / Product website](https://www.devgo.io:5201/products/labeleditor) · [官网下载 / Official downloads](https://www.devgo.io:5201/products/labeleditor#downloads)
 
 </div>
 
@@ -61,7 +61,7 @@ LabelEditor 是面向标签设计与打印流程的产品，帮助团队在一�
 
 ### 获取与使用
 
-请访问 [产品官网](https://devgo.io/products/labeleditor/) 了解产品，前往 [下载中心](https://devgo.io/downloads/) 查看当前安装包、平台支持和发布说明。安装、授权及升级应按官网对应版本的说明执行。
+请访问 [产品官网](https://www.devgo.io:5201/products/labeleditor) 了解产品，前往 [下载中心](https://www.devgo.io:5201/products/labeleditor#downloads) 查看当前安装包、平台支持和发布说明。安装、授权及升级应按官网对应版本的说明执行。
 
 LabelEditor 主要面向 ZPL 标签工作流。不同版本的功能、授权和集成范围可能不同；打印机型号、字体、耗材及网络条件也会影响实际效果。预览、任务受理或设备回执不能替代目标设备上的实体出纸验收。
 
@@ -117,7 +117,7 @@ Connect printing with scanning, validation, and operational processes in PDA app
 
 ### Get LabelEditor
 
-Visit the [product website](https://devgo.io/products/labeleditor/) and [download center](https://devgo.io/downloads/) for current installers, platform support and release information. Follow the instructions for the relevant version when installing, licensing or upgrading.
+Visit the [product website](https://www.devgo.io:5201/products/labeleditor) and [download center](https://www.devgo.io:5201/products/labeleditor#downloads) for current installers, platform support and release information. Follow the instructions for the relevant version when installing, licensing or upgrading.
 
 LabelEditor primarily targets ZPL label workflows. Features, licensing and integrations depend on the release; output also depends on the printer, fonts, media and network. A preview, accepted request or device receipt does not replace verification of physical output on the target printer.
 
