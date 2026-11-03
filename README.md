@@ -123,4 +123,10 @@ LabelEditor primarily targets ZPL label workflows. Features, licensing and integ
 
 ---
 
+## 联系方式 / Contact
+
+产品咨询 / Product inquiries: [lm@usev.cn](mailto:lm@usev.cn)
+
+---
+
 **Repository scope:** This repository contains product information and website presentation files only. The LabelEditor application source code and installers are not included.
